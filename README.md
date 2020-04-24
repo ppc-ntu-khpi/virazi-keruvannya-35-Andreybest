@@ -37,11 +37,7 @@
 
 ## Використання
 1. Почніть програму на методі main классу TestResult
-2. Введіть бажані числа в програму  
-![Entered Numbers](/img/numberEntering.png)
-3. Напишіть `stop` щоп закінчити список чисел  
-![Enter Stop](/img/enterStop.png)
-4. Отримайте найбільш повторюване число з вами введених  
+2. Отримайте найбільш повторюване число з приведених чисел
 ![Result](img/result.png)
 
 Made by Andrii Kotliar
